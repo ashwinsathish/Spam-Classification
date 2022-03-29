@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'SpamCatch'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D4B30A3F66E4C7F80C2576799B3B423 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_445B4AC9E7834961A1D9BD3C36DBBBF3 }}
